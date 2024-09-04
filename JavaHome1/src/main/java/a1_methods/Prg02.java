@@ -1,6 +1,6 @@
 package a1_methods;
 
-public class Prg2 {
+public class Prg02 {
 	
 	static int a =10;
 	static int b =20;
@@ -37,10 +37,10 @@ public class Prg2 {
 	
 	public static void main(String[] args) {
 		
-		Prg2.add();
-		Prg2.sub();
-		Prg2.mul();
-		Prg2.div();
+		add();  // class name not needed - main static
+		Prg02.sub();
+		Prg02.mul();
+		Prg02.div();
 		
 	}
 	

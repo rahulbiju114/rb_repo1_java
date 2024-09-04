@@ -4,7 +4,7 @@
 
 package a1_methods;
 
-public class Prg3 {
+public class Prg03_NonParametrized_Returntype {
 	
 	public static String disp() {
 		
@@ -15,7 +15,7 @@ public class Prg3 {
 
 	public static void main(String[] args) {
 		
-		String x = Prg3.disp();
+		String x = Prg03_NonParametrized_Returntype.disp();
 		System.out.println(x);
 
 	}

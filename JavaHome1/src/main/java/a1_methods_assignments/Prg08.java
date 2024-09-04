@@ -2,7 +2,7 @@
 
 package a1_methods_assignments;
 
-public class Prg8 {
+public class Prg08 {
 	
 	static int a;
 	static int b;
@@ -22,7 +22,7 @@ public class Prg8 {
 	public static void main(String[] args) {
 		
 		
-		System.out.println(Prg8.add(10,20));
+		System.out.println(Prg08.add(10,20));
 		
 
 	}

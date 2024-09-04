@@ -4,9 +4,9 @@
 
 package a1_methods;
 
-public class Prg6 {
+public class Prg06_Parametrized_NoReturntype_localVar {
 	
-	public static String s;
+	public static String s; 
 	
 	public static void disp(String x) {   // local vraible
 		
@@ -25,8 +25,8 @@ public class Prg6 {
 
 	public static void main(String[] args) {
 		
-		Prg6.disp("Rahul");
-		Prg6.disp1();
+		Prg06_Parametrized_NoReturntype_localVar.disp("Rahul");
+		Prg06_Parametrized_NoReturntype_localVar.disp1();
 		
 		
 

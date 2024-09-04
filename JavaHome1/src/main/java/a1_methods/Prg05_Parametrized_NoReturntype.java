@@ -1,8 +1,8 @@
-// // Static - with parameterized 
+// // Static - with parameterized with retun type
 
 package a1_methods;
 
-public class Prg5 {
+public class Prg05_Parametrized_NoReturntype {
 	
 	public static void disp(String x) {
 		
@@ -12,8 +12,10 @@ public class Prg5 {
 
 	public static void main(String[] args) {
 		
-		Prg5.disp("Rahul");
+		Prg05_Parametrized_NoReturntype.disp("Rahul");
 
 	}
 
 }
+
+

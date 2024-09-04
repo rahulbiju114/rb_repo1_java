@@ -4,7 +4,7 @@
 
 package a1_methods;
 
-public class Prg1 {
+public class Prg01_NonParametrized_NoReturntype {
 	
 	
 	public static void disp() {
@@ -16,7 +16,7 @@ public class Prg1 {
 
 	public static void main(String[] args) {
 		
-		Prg1.disp();
+		Prg01_NonParametrized_NoReturntype.disp();  // static classname.static method name
 		
 	}
 

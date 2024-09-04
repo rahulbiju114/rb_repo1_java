@@ -1,6 +1,6 @@
 package a1_methods;
 
-public class Prg7 {
+public class Prg07_2ndway_Parametrized_Returntype {
 	
 //	static int a;
 //	static int b;
@@ -16,13 +16,15 @@ public class Prg7 {
 		int sum = c+d;
 		
 		System.out.println("Sum is "+sum);
+		
+		// no return tupe
 	}
 
 
 	public static void main(String[] args) {
 		
 		
-		Prg7.add(10, 20);
+		Prg07_2ndway_Parametrized_Returntype.add(10, 20);
 		
 	
 	}
